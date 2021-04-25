@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <kelasa>
+        <nama>Novi Fazriah</nama>
+        <npm>187006012</npm>
+        <alamat>Pagerageung</alamat>
+    </kelasa>
+     <kelasa>
+        <nama>Irena Kusuma Dewi</nama>
+        <npm>187006002</npm>
+        <alamat>Paseh Tasik</alamat>
+    </kelasa>
+      <kelasa>
+      <nama>Rahmi Intari</nama>
+        <npm>187006006</npm>
+        <alamat>Sukaraja</alamat> 
+    </kelasa>
+    <kelasa>
+      <nama>Ahmad Lutfi M</nama>
+        <npm>187006010</npm>
+        <alamat>Taraju</alamat> 
+    </kelasa>
+    <kelasa>
+      <nama>Yuda Maulana</nama>
+        <npm>187006012</npm>
+        <alamat>Cigalontang</alamat> 
+    </kelasa>
+</data>
