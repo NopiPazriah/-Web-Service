@@ -1,0 +1,38 @@
+[
+    {
+        "judul" : "VINCENZO",
+        "genre" : "Komedi ",
+        "episode" : "20",
+        "keterangan" : "Ongoing"
+    },
+   {
+        "judul" : "Start-Up",
+        "genre" : "Bisnis, Komedi, Romantis",
+        "episode" : "16",
+        "keterangan" : "Complete"
+    },
+    {
+        "judul" : "Mr. Queen",
+        "genre" : "Sejarah, Komedi, Drama, Fantasi",
+        "episode" : "20",
+        "keterangan" : "Complete"
+    },
+    {
+        "judul" : "Crash Landing On You",
+        "genre" : "Romantis, ",
+        "episode" : "16",
+        "keterangan" : "Complete"
+    },
+    {
+        "judul" : "Penthouse",
+        "genre" : "Thiller, Drama",
+        "episode" : "20",
+        "keterangan" : "Complete"
+    },
+    {
+        "judul" : "Uncontrollably Found",
+        "genre" : "Komedi, Romantis",
+        "episode" : "20",
+        "keterangan" : "Complete"
+    }
+]
